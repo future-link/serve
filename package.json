@@ -1,0 +1,19 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "description": "Beautiful, simple Web-based client for echo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/future-link/serve.git"
+  },
+  "author": "Atnanasi",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/future-link/serve/issues"
+  },
+  "homepage": "https://github.com/future-link/serve#readme"
+}
