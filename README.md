@@ -1,2 +1,4 @@
 # serve
-𝙡𝙤𝙫𝙚
+
+Beautiful, simple Web-based client for [echo](https://github.com/future-link/echo/)
+
