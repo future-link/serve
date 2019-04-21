@@ -1,3 +1,7 @@
+# serve
+
+Beautiful, simple Web-based client for [echo](https://github.com/future-link/echo/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
